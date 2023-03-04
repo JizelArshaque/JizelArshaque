@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JizelArshaque
-- 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Computer Application
+- 👀 I’m interested in Programming
+- 🌱 I’m currently looking for a python deveoper role
 - 💞️ I’m looking to collaborate on startups
 - 📫 How to reach me @jizelarshaque.97@gmail.com
 
