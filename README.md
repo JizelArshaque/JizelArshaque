@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @JizelArshaque
 - 👀 I’m interested in Programming
-- 🌱 I’m currently looking for a python deveoper role
+- 🌱 I’m currently looking for a front end dev role
 - 💞️ I’m looking to collaborate on startups
-- 📫 How to reach me @jizelarshaque.97@gmail.com
+- 📫 How to reach me @jizelarshaque@gmail.com
+- or 9495866415
 
 <!---
 JizelArshaque/JizelArshaque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
